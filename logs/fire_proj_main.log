@@ -1,0 +1,28 @@
+06/07/2022 17:14:19:
+	Setting environment...
+06/07/2022 17:14:26:
+	Unable to install picamera because of error Command '['/media/hdd/Downloads lin/diy/env/bin/python', '-m', 'pip', 'install', 'picamera']' returned non-zero exit status 1.
+Input twillio_sid: Input twillio_auth_token: Input phone: Input messaging_service_sid: 06/07/2022 17:14:55:
+	Environment Set.
+06/07/2022 17:17:08:
+	Setting environment...
+06/07/2022 17:17:14:
+	Unable to install picamera because of error Command '['/media/hdd/Downloads lin/diy/env/bin/python', '-m', 'pip', 'install', 'picamera']' returned non-zero exit status 1.
+Input twillio_sid: Input twillio_auth_token: Input phone: Input messaging_service_sid: 06/07/2022 17:19:00:
+	Environment Set.
+06/07/2022 17:19:32:
+	Setting environment...
+06/07/2022 17:19:37:
+	Unable to install picamera because of error Command '['/media/hdd/Downloads lin/diy/env/bin/python', '-m', 'pip', 'install', 'picamera']' returned non-zero exit status 1.
+Input twillio_sid: Input twillio_auth_token: Input phone: Input messaging_service_sid: 06/07/2022 17:19:46:
+	Environment Set.
+Found 1734 images belonging to 3 classes.
+Found 546 images belonging to 3 classes.
+Epoch 1/100
+
+06/07/2022 17:46:13:
+	Loading Model...
+06/07/2022 17:46:15:
+	Model Loaded.
+06/07/2022 17:46:15:
+	Computing result from image...
