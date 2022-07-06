@@ -1,2 +1,5 @@
-emulate/
-diy/
+env/
+logs/
+__pycache__/
+creds
+*.h5
