@@ -1,5 +1,9 @@
+# Files in root directiory
+*.h5
+creds
+
+# Folders
+.ipynb_checkpoints/
 env/
 logs/
 __pycache__/
-creds
-*.h5
